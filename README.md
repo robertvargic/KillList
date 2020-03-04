@@ -5,7 +5,6 @@ HitList is a Swift App shows the implementation of Core Data. It is the demo app
 ## Screenshots
 ![HitList](./HitList.gif)
 
-
 ### Why XCTest?
 
 Here we have basically same explanation as in the Android project, and that is the 
